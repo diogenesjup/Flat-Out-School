@@ -6,11 +6,11 @@
 ![HTML5][HTML_BADGE]
 ![PHP][PHP_BADGE]
 
-<h1 align="center" style="font-weight: bold;">Flat Out School 💻</h1>
+<h1 style="font-weight: bold;">Flat Out School 💻</h1>
 
 
 
-<p align="center">
+<p>
   <b>Entendendo as jornadas e fluxos de uso dos ambientes online da plataforma..</b>
 </p>
 
