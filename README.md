@@ -2,13 +2,12 @@
 [HTML_BADGE]: https://img.shields.io/badge/HTML5-%23FF9900.svg?style=for-the-badge&logo=html5&logoColor=white
 [PHP_BADGE]: https://img.shields.io/badge/PHP-%237E57C2.svg?style=for-the-badge&logo=php&logoColor=white
 
-<h1 align="center" style="font-weight: bold;">Flat Out School 💻</h1>
-
-<p align="center">
 ![javascript][JAVASCRIPT__BADGE]
 ![HTML5][HTML_BADGE]
 ![PHP][PHP_BADGE]
-</p>
+
+<h1 align="center" style="font-weight: bold;">Flat Out School 💻</h1>
+
 
 
 <p align="center">
