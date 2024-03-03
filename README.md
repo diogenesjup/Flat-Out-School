@@ -11,19 +11,16 @@
 
 
 <p align="center">
-  <b>Simple description of what your project do or how to use it.</b>
+  <b>Entendendo as jornadas e fluxos de uso dos ambientes online da plataforma..</b>
 </p>
 
 <h2 id="started">🚀 Como iniciar:</h2>
 
 Vídeo de introdução e instrução:
 
-<h3>Prerequisites</h3>
+<h3>1. Contratação</h3>
 
-Here you list all prerequisites necessary for running your project. For example:
-
-- [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
+Jornada de contratação do cliente/aluno Flat Out School: [NodeJS](https://github.com/)
 
 <h3>Cloning</h3>
 
