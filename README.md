@@ -22,7 +22,7 @@ Vídeo de introdução e instrução:
 
 Jornada de contratação do cliente/aluno Flat Out School: [NodeJS](https://github.com/)
 
-<img src-"https://homologacao.flatoutschool.com/assets/fluxo2.jpg" />
+<img src="https://homologacao.flatoutschool.com/assets/fluxo2.jpg" alt="Fluxo de contratação" />
 
 <h3>Cloning</h3>
 
