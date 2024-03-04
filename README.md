@@ -22,6 +22,8 @@ Vídeo de introdução e instrução:
 
 Jornada de contratação do cliente/aluno Flat Out School: [NodeJS](https://github.com/)
 
+<img src-"https://homologacao.flatoutschool.com/assets/fluxo2.jpg" />
+
 <h3>Cloning</h3>
 
 How to clone your project
