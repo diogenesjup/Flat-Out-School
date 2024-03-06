@@ -46,7 +46,9 @@ Jornada de cotratação do cliente/aluno Flat Out School:
 <img src="https://homologacao.flatoutschool.com/assets/fluxo2.jpg" alt="Fluxo de contratação" />
 
 
+<h3>4. Área do Aluno</h3>
 
+<h3>5. Área do Professor</h3>
 
 <h2 id="contribute">📫 Encontrou algum problema?</h2>
 
