@@ -21,25 +21,25 @@ Vídeo de introdução e instrução: <a href="https://drive.google.com/file/d/1
 <h3>1. Níveis de usuários</h3>
 
 <p>
-  <a href="https://drive.google.com/file/d/1_LNiva-4JvjaSIz-dGX4PznPttVPmCp7/view?usp=sharing" target="_blank">Conhecendo os níveis de usuário</a>
+  1.1 <a href="https://drive.google.com/file/d/1_LNiva-4JvjaSIz-dGX4PznPttVPmCp7/view?usp=sharing" target="_blank">Conhecendo os níveis de usuários</a>
 </p>
 
 <h3>2. Marketing</h3>
 
 <p>
-  <a href="https://drive.google.com/file/d/1vUF5VYyV4feLMHL1uPWoNEbYLpX7KWiY/view?usp=sharing" target="_blank">Editando Páginas</a>
+  2.1 <a href="https://drive.google.com/file/d/1vUF5VYyV4feLMHL1uPWoNEbYLpX7KWiY/view?usp=sharing" target="_blank">Editando Páginas</a>
 </p>
 <p>
-  <a href="https://drive.google.com/file/d/1WuJNwGnbsz4cg2zJZ97hl7QpM0W1lvGI/view?usp=sharing" target="_blank">Editando Páginas PARTE 2</a>
+  2.2 <a href="https://drive.google.com/file/d/1WuJNwGnbsz4cg2zJZ97hl7QpM0W1lvGI/view?usp=sharing" target="_blank">Editando Páginas PARTE 2</a>
 </p>
 <p>
-  <a href="https://drive.google.com/file/d/1kPllYqOEpvx8JBartlfqA5RgNogn0yeR/view?usp=sharing" target="_blank">Gerenciando LEADS</a>
+  2.3 <a href="https://drive.google.com/file/d/1kPllYqOEpvx8JBartlfqA5RgNogn0yeR/view?usp=sharing" target="_blank">Gerenciando LEADS</a>
 </p>
 
 
 <h3>3. Contratação</h3>
 
-Jornada de cotratação do cliente/aluno Flat Out School: 
+3.1 Jornada de cotratação do cliente/aluno Flat Out School: 
 
 <img src="https://homologacao.flatoutschool.com/assets/fluxo2.jpg" alt="Fluxo de contratação" />
 
