@@ -35,18 +35,25 @@ Vídeo de introdução e instrução: <a href="https://drive.google.com/file/d/1
 <p>
   2.3 <a href="https://drive.google.com/file/d/1kPllYqOEpvx8JBartlfqA5RgNogn0yeR/view?usp=sharing" target="_blank">Gerenciando LEADS</a>
 </p>
+<p>
+  2.4 <a href="https://drive.google.com/file/d/1ZIv-mVV6xjVVF8W0Oo4IqzIriPaOhuV6/view?usp=sharing" target="_blank">Exportando Leads para Excel</a>
+</p>
 
 
 <h3>3. Contratação</h3>
 
 3.1 Jornada de cotratação do cliente/aluno Flat Out School: 
 
-<img src="https://homologacao.flatoutschool.com/assets/fluxo2.jpg" alt="Fluxo de contratação" />
+<img src="https://homologacao.flatoutschool.com/assets/fluxo2.jpg" alt="Fluxo de contratação" /> <br>
 
+3.2 Demonstração do processo  de cadastro, contrato e pagamento https://drive.google.com/file/d/1A5sCKJ6WdMu06gVei5mUhUPKdJK4xheM/view?usp=sharing
 
 <h3>4. Área do Aluno</h3>
+4.1 Correções no Painel do Aluno https://drive.google.com/file/d/1sJNMsRORlD7pT2_qmwQe6t1zvdnUbPoD/view?usp=sharing
 
 <h3>5. Área do Professor</h3>
+5.1 Painel do Professor https://drive.google.com/file/d/1lzTCsGIc8kwO4YbWanYfI9lD30i5hE81/view?usp=sharing<br>
+5.2 Agenda do Professor https://drive.google.com/file/d/1a2zN8hj_xUixlZr3mt_MwGwOhBt_TzLU/view?usp=sharing (para aprovação)<br>
 
 <h2 id="contribute">📫 Encontrou algum problema?</h2>
 
