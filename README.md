@@ -18,10 +18,11 @@
 
 Vídeo de introdução e instrução: <a href="https://drive.google.com/file/d/1MSEFfr48TkS01VzPLBVwt-izcUwnmGaU/view?usp=sharing" target="_blank">Como utilizar esse documento</a>
 
-<h3>1. Níveis de usuários</h3>
+<h3>1. Genéricos</h3>
 
 <p>
   1.1 <a href="https://drive.google.com/file/d/1_LNiva-4JvjaSIz-dGX4PznPttVPmCp7/view?usp=sharing" target="_blank">Conhecendo os níveis de usuários</a>
+  1.2 Página 404
 </p>
 
 <h3>2. Marketing</h3>
@@ -38,6 +39,9 @@ Vídeo de introdução e instrução: <a href="https://drive.google.com/file/d/1
 <p>
   2.4 <a href="https://drive.google.com/file/d/1ZIv-mVV6xjVVF8W0Oo4IqzIriPaOhuV6/view?usp=sharing" target="_blank">Exportando Leads para Excel</a>
 </p>
+<p>
+  2.5 Configurações do estilo das páginas de autenticação
+</p>
 
 
 <h3>3. Contratação</h3>
@@ -49,11 +53,14 @@ Vídeo de introdução e instrução: <a href="https://drive.google.com/file/d/1
 3.2 Demonstração do processo  de cadastro, contrato e pagamento https://drive.google.com/file/d/1A5sCKJ6WdMu06gVei5mUhUPKdJK4xheM/view?usp=sharing
 
 <h3>4. Área do Aluno</h3>
-4.1 Correções no Painel do Aluno https://drive.google.com/file/d/1sJNMsRORlD7pT2_qmwQe6t1zvdnUbPoD/view?usp=sharing
+4.1 Correções no Painel do Aluno https://drive.google.com/file/d/1sJNMsRORlD7pT2_qmwQe6t1zvdnUbPoD/view?usp=sharing<br>
+4.2 Atualização Foto de Perfil
 
 <h3>5. Área do Professor</h3>
 5.1 Painel do Professor https://drive.google.com/file/d/1lzTCsGIc8kwO4YbWanYfI9lD30i5hE81/view?usp=sharing<br>
 5.2 Agenda do Professor https://drive.google.com/file/d/1a2zN8hj_xUixlZr3mt_MwGwOhBt_TzLU/view?usp=sharing (para aprovação)<br>
+5.3 Atualizando Foto de Perfil<br>
+5.4 Atualizando info publicas e preview do perfil publico
 
 <h2 id="contribute">📫 Encontrou algum problema?</h2>
 
