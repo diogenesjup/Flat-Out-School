@@ -42,6 +42,9 @@ Vídeo de introdução e instrução: <a href="https://drive.google.com/file/d/1
 <p>
   2.5 Configurações do estilo das páginas de autenticação https://drive.google.com/file/d/1Y2w-l0f-fBzr_5vzcUYdLkPZpO1uipGA/view?usp=sharing e também https://drive.google.com/file/d/1_IlqKJh-a-c7eq9QMxGIbZLzXGmG0tsg/view?usp=sharing
 </p>
+<p>
+  2.6 Painel independente para campanhas de marketing https://drive.google.com/file/d/1jYwpDf_jMPo4LUEozA_iJ-QCB2sT6NUu/view?usp=sharing (URL em https://mkt.flatoutschool.com/)
+</p>
 
 
 <h3>3. Contratação</h3>
