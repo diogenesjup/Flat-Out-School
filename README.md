@@ -45,6 +45,9 @@ Vídeo de introdução e instrução: <a href="https://drive.google.com/file/d/1
 <p>
   2.6 Painel independente para campanhas de marketing https://drive.google.com/file/d/1jYwpDf_jMPo4LUEozA_iJ-QCB2sT6NUu/view?usp=sharing (URL em https://mkt.flatoutschool.com/)
 </p>
+<p>
+  2.7 Criando URLs para arquivos avultos fora da Flat Out School https://drive.google.com/file/d/1NhhGF3VTSLnlOTjreJoRHQQXMHUSCAfE/view?usp=sharing
+</p>
 
 
 <h3>3. Contratação</h3>
