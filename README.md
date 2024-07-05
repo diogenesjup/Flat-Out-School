@@ -49,8 +49,9 @@ Vídeo de introdução e instrução: <a href="https://drive.google.com/file/d/1
   2.7 Criando URLs para arquivos avultos fora da Flat Out School https://drive.google.com/file/d/1NhhGF3VTSLnlOTjreJoRHQQXMHUSCAfE/view?usp=sharing
 </p>
 <p>
-  2.8 Criando redirecionamento para página principal (redirecionar para campanhas)
-  <img src="https://homologacao.flatoutschool.com/cdn/redir.PNG" alt="" /> <br>
+  2.8 Criando redirecionamento para página principal (redirecionar para campanhas)<br>
+  
+  <img src="https://homologacao.flatoutschool.com/cdn/redir2.jpg" alt="" /> <br>
 </p>
 
 
