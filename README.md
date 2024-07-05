@@ -48,6 +48,10 @@ Vídeo de introdução e instrução: <a href="https://drive.google.com/file/d/1
 <p>
   2.7 Criando URLs para arquivos avultos fora da Flat Out School https://drive.google.com/file/d/1NhhGF3VTSLnlOTjreJoRHQQXMHUSCAfE/view?usp=sharing
 </p>
+<p>
+  2.8 Criando redirecionamento para página principal (redirecionar para campanhas)
+  <img src="https://drive.google.com/file/d/1WdlAsWYyObUKaJULt0z5H-elMPtwTb5a/view?usp=sharing" alt="" /> <br>
+</p>
 
 
 <h3>3. Contratação</h3>
