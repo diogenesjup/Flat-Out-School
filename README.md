@@ -50,7 +50,7 @@ Vídeo de introdução e instrução: <a href="https://drive.google.com/file/d/1
 </p>
 <p>
   2.8 Criando redirecionamento para página principal (redirecionar para campanhas)
-  <img src="https://drive.google.com/file/d/1WdlAsWYyObUKaJULt0z5H-elMPtwTb5a/view?usp=sharing" alt="" /> <br>
+  <img src="https://homologacao.flatoutschool.com/cdn/redir.PNG" alt="" /> <br>
 </p>
 
 
